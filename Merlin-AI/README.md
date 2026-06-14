@@ -1,61 +1,48 @@
-# 📚 SciSpace Assignment – Research Paper Simplification
+# ⚡ Merlin – Productivity Challenge Assignment
 
 ## 🎯 Objective
-This assignment demonstrates how AI tools like SciSpace can simplify complex research papers into easy-to-understand insights, methodology breakdowns, and actionable knowledge.
+This project demonstrates how AI tools like Merlin can be used to improve productivity by summarizing and extracting insights from multiple content formats including websites, YouTube videos, and PDFs.
 
 ---
 
 ## 🛠 Tool Used
-- SciSpace AI Research Assistant
+- Merlin AI Assistant (Browser Extension / AI Summarizer Tool)
 
 ---
 
-## 📌 Task Description
-- Select one published research paper
-- Upload and analyze it using SciSpace
-- Extract:
-  - Simple explanation
-  - Methodology summary
-  - Limitations
-  - Future scope
-  - Visual representation of workflow
+## 📌 Task Overview
+The goal of this assignment was to analyze three different types of content:
+- One website
+- One YouTube video
+- One PDF document
+
+Each source was processed using AI to generate:
+- Concise summaries  
+- Key insights  
+- Practical action points  
 
 ---
 
-## 📄 Deliverables
+## 📦 Deliverables
 
-### 1. Original Research Paper
-- The selected academic paper in PDF format
+### 📄 Productivity Report
+A structured report combining insights from all three sources:
+- Website analysis
+- Video analysis
+- PDF analysis
+- Combined insights
 
-### 2. Simplified Explanation
-- Easy-to-understand breakdown of the paper
-- Non-technical language for beginners
-
-### 3. Methodology Summary
-- Step-by-step explanation of:
-  - Dataset
-  - Preprocessing
-  - Model/approach
-  - Training
-  - Evaluation
-
-### 4. Limitations
-- Key weaknesses and constraints of the research
-
-### 5. Future Work
-- Suggested improvements and research directions
-
-### 6. Visual Summary
-- Flow diagram: Input → Process → Model → Output → Result
+### 🧠 Reflection
+Personal learning experience and time-saving evaluation
 
 ---
 
-## 📊 Outcome
-This assignment helped in understanding how AI tools can simplify academic research and make complex papers accessible for learning and analysis.
+## 💡 Outcome
+This assignment shows how AI tools can significantly reduce reading and analysis time while improving understanding and productivity.
 
 ---
 
 ## 🚀 Key Learning
-- Breaking down complex research into simple components
-- Understanding AI-assisted academic reading
-- Improving research comprehension speed using SciSpace
+- Converting long content into structured summaries  
+- Extracting actionable insights from different media types  
+- Improving productivity using AI-assisted reading tools  

@@ -1,47 +1,35 @@
-# 🤖 SciSpace Prompts Used – Research Paper Simplification
+# 🤖 Merlin Prompt Guide – Productivity Challenge
 
-This file contains the prompts used inside SciSpace AI tool to extract structured insights from the research paper.
-
----
-
-## 📌 1. Overall Paper Understanding
-> Explain this research paper in simple language.  
-> Give a clear summary of the problem, method, and results in beginner-friendly terms.
+This file contains the structured prompt used to analyze different types of content using Merlin AI.
 
 ---
 
-## 📌 2. Simple Explanation (ELI5 Style)
-> Explain this paper like I am a beginner student with no technical background.  
-> Avoid jargon and use simple examples.
+## 📌 Master Prompt Used
 
----
-
-## 📌 3. Methodology Extraction
-> Summarize the methodology step by step including:
-> - Dataset used  
-> - Data preprocessing  
-> - Model/algorithm used  
-> - Training process  
-> - Evaluation method  
-
----
-
-## 📌 4. Key Innovation
-> What is the main idea or innovation in this research paper?  
-> Explain it in simple terms.
-
----
-
-## 📌 5. Limitations
-> What are the limitations or weaknesses of this research paper?
-
----
-
-## 📌 6. Future Work
-> Suggest possible improvements or future research directions for this paper.
-
----
-
-## 📌 7. Visual Flow
-> Create a simple flow of the research process:
-> Input → Process → Model → Output → Result
+> I want you to act as a productivity assistant.  
+> I will provide three types of content:
+> - One website  
+> - One YouTube video  
+> - One PDF document  
+>  
+> For each source, provide:
+>  
+> ### 1. Summary
+> - Explain the content in simple and clear language  
+>  
+> ### 2. Key Insights
+> - Highlight the most important ideas and learnings  
+>  
+> ### 3. Action Points
+> - Provide practical steps that can be implemented in real life  
+>  
+> ---
+>  
+> After analyzing all sources, generate a combined productivity report that includes:
+> - Structured breakdown of all sources  
+> - Overall insights  
+> - Key takeaways  
+>  
+> Also include a reflection on:
+> - How much time AI saved compared to manual reading  
+> - Benefits of using AI tools for productivity  
