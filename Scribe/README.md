@@ -1,5 +1,6 @@
 # 📝 Scribe – Process Documentation Assignment
-
+Scribe works like this:
+Start Recording → Perform Task → Auto Generate Guide → Edit → Export 
 ## 🎯 Objective
 This project demonstrates how to create a clear, step-by-step process guide using AI-assisted documentation tools. The goal was to document a real-world task in a structured and beginner-friendly format.
 
