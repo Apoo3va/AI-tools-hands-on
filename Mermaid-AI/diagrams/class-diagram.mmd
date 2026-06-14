@@ -1,0 +1,60 @@
+```mermaid
+classDiagram
+
+class Student{
++studentId
++name
++email
++registerCourse()
++viewResult()
+}
+
+class Faculty{
++facultyId
++name
++department
++markAttendance()
++uploadMarks()
+}
+
+class Course{
++courseId
++courseName
++credits
+}
+
+class Attendance{
++attendanceId
++percentage
+}
+
+class Examination{
++examId
++date
++scheduleExam()
+}
+
+class Result{
++resultId
++grade
++generateResult()
+}
+
+class Admin{
++adminId
++manageUsers()
++generateReports()
+}
+
+Student --> Course
+Student --> Attendance
+Student --> Examination
+Student --> Result
+
+Faculty --> Course
+Faculty --> Attendance
+Faculty --> Examination
+
+Admin --> Student
+Admin --> Faculty
+```

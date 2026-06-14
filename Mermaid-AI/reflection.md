@@ -1,0 +1,3 @@
+# Reflection
+
+This assignment helped me understand how system design concepts can be represented visually using Mermaid AI. Creating flowcharts, user journeys, class diagrams, and sequence diagrams provided a clear understanding of both the structural and functional aspects of a software system. Mermaid's text-based syntax made diagram creation simple and efficient while maintaining professional-quality outputs. Through this activity, I learned how visual representations can improve communication, planning, and documentation during software development.

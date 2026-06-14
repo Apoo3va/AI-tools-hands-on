@@ -1,0 +1,22 @@
+```mermaid
+sequenceDiagram
+
+participant Student
+participant Portal
+participant Database
+participant Admin
+
+Student->>Portal: Login
+Portal->>Database: Verify Credentials
+Database-->>Portal: Authentication Success
+
+Student->>Portal: Select Course
+Portal->>Database: Check Availability
+
+Database-->>Portal: Seats Available
+
+Portal-->>Student: Enrollment Successful
+
+Portal->>Admin: Update Enrollment Record
+Admin-->>Portal: Confirmation
+```
