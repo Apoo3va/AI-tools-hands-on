@@ -1,7 +1,7 @@
 # Prompts Used
 
 1. I am an ECE undergraduate student interested in Artificial Intelligence and Machine Learning. Create a detailed 3-year roadmap to become an AI/ML Engineer including skills, projects, internships, certifications, and career milestones.
-   
+
 2. Break the AI/ML Engineer roadmap into semester-wise goals for the next 3 years considering I'm 1st year student.
 
 3.List all technical skills required to become an AI/ML Engineer and categorize them into beginner, intermediate, and advanced levels.
